@@ -29,4 +29,3 @@ ModCTASwitch.SwitchAV = 18
 ModCTASwitch.SwitchEots = 19
 ModCTASwitch.SwitchSota = 20
 ModCTASwitch.SwitchIoc = 18
-ModCTASwitch.DailyCTA = 1
